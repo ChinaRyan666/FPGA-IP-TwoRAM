@@ -1,0 +1,196 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/FPGA/ip_2port_ram/prj/ip_2port_ram.sim/sim_1/behav/modelsim
+T_opt
+!s110 1682646706
+VSRFDD_IHWTT8Z]]AO`dQR2
+Z1 04 15 4 work tb_ip_2port_ram fast 0
+Z2 04 4 4 work glbl fast 0
+=1-d8bbc14fe46f-644b26b1-132-c3c
+Z3 o-quiet -auto_acc_if_foreign -work xil_defaultlib -L xil_defaultlib -L blk_mem_gen_v8_4_4 -L unisims_ver -L unimacro_ver -L secureip -L xpm +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1683545539
+V[N`eTlMZiS@?1h@kojTIL1
+R1
+R2
+=1-d8bbc14fe46f-6458ddbf-32c-578c
+R3
+R4
+n@_opt1
+R5
+vblk_mem_gen_0
+Z6 !s110 1683545517
+!i10b 1
+!s100 ciRn8jlHiDz;=jhT?j;HM0
+Z7 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Il@VUh@W>`]X?Z6DBmEPb63
+Z8 dE:/FPGA/z1/ip_2port_ram/prj/ip_2port_ram.sim/sim_1/behav/modelsim
+w1683540279
+8../../../../ip_2port_ram.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v
+F../../../../ip_2port_ram.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v
+!i122 7
+L0 56 175
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z11 !s108 1683545517.000000
+Z12 !s107 ../../../../../sim/tb/tb_ip_2port_ram.v|../../../../../rtl/ram_wr.v|../../../../../rtl/ram_rd.v|../../../../../rtl/ip_2port_ram.v|../../../../ip_2port_ram.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v|../../../../ip_2port_ram.gen/sources_1/ip/ila_0/sim/ila_0.v|
+Z13 !s90 -incr|-work|xil_defaultlib|../../../../ip_2port_ram.gen/sources_1/ip/ila_0/sim/ila_0.v|../../../../ip_2port_ram.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v|../../../../../rtl/ip_2port_ram.v|../../../../../rtl/ram_rd.v|../../../../../rtl/ram_wr.v|../../../../../sim/tb/tb_ip_2port_ram.v|
+!i113 0
+Z14 o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vglbl
+R6
+!i10b 1
+!s100 ZHmTNm_h3dd`6mIQLzSUN3
+R7
+IJT>_:<WW6a7KP^k3<8E3=1
+R8
+w1605673889
+8glbl.v
+Fglbl.v
+!i122 8
+L0 6 78
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 glbl.v|
+!s90 -work|xil_defaultlib|glbl.v|
+!i113 0
+R14
+R4
+vila_0
+!s10a 1680234285
+!s110 1682645845
+!i10b 1
+!s100 8@6e:?LTo^O;:^8GbUiYn0
+R7
+IJjM_A<cKEi<JkXAdMnX2X2
+R0
+w1680234285
+8../../../../ip_2port_ram.gen/sources_1/ip/ila_0/sim/ila_0.v
+F../../../../ip_2port_ram.gen/sources_1/ip/ila_0/sim/ila_0.v
+!i122 2
+L0 49 28
+R9
+R10
+r1
+!s85 0
+31
+!s108 1682645845.000000
+R12
+R13
+!i113 0
+R14
+R4
+vip_2port_ram
+R6
+!i10b 1
+!s100 NURa^hldLEH;U4FgEha:Q3
+R7
+ImRljLYIR3k3bPM9zAPJ9:2
+R8
+w1683544709
+8../../../../../rtl/ip_2port_ram.v
+F../../../../../rtl/ip_2port_ram.v
+!i122 7
+L0 23 68
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R4
+vram_rd
+!s10a 1682646665
+!s110 1682646695
+!i10b 1
+!s100 8A8VFCZblaa0WASXQcfjz0
+R7
+Ii^X=1zZ]leF]n?Yh=Ah7Y0
+R0
+w1682646665
+8../../../../../rtl/ram_rd.v
+F../../../../../rtl/ram_rd.v
+!i122 4
+L0 23 27
+R9
+R10
+r1
+!s85 0
+31
+!s108 1682646695.000000
+R12
+R13
+!i113 0
+R14
+R4
+vram_wr
+R6
+!i10b 1
+!s100 ;dC9DPP:9Ze@6GDTch@YF3
+R7
+IQd@L7ZjIl7Dhi[i6ThDYh1
+R8
+w1683544664
+8../../../../../rtl/ram_wr.v
+F../../../../../rtl/ram_wr.v
+!i122 7
+L0 23 51
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R4
+vtb_ip_2port_ram
+!s10a 1679549215
+!s110 1680226892
+!i10b 1
+!s100 G542JN?@E2A^PU<]ko;n=3
+R7
+IAOZdCM_HUS`EM43kC0Hh13
+R0
+w1679549215
+8../../../../../sim/tb/tb_ip_2port_ram.v
+F../../../../../sim/tb/tb_ip_2port_ram.v
+!i122 0
+L0 3 26
+R9
+R10
+r1
+!s85 0
+31
+!s108 1680226891.000000
+!s107 ../../../../../sim/tb/tb_ip_2port_ram.v|../../../../../rtl/ram_wr.v|../../../../../rtl/ram_rd.v|../../../../../rtl/ip_2port_ram.v|../../../../ip_2port_ram.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v|
+!s90 -incr|-work|xil_defaultlib|../../../../ip_2port_ram.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v|../../../../../rtl/ip_2port_ram.v|../../../../../rtl/ram_rd.v|../../../../../rtl/ram_wr.v|../../../../../sim/tb/tb_ip_2port_ram.v|
+!i113 0
+R14
+R4
